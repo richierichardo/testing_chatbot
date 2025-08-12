@@ -1,0 +1,7 @@
+### Menguji Endpoint Chatbot
+POST http://127.0.0.1:8000/api/chat/
+Content-Type: application/json
+
+{
+    "question": "berapa ram laptop cepat?"
+}
