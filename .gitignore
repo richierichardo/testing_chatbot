@@ -1,0 +1,10 @@
+# Virtual Environment
+test_app/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Lainnya
+.env
+db.sqlite3
